@@ -1,0 +1,4 @@
+# Asynk Labs - app-ads.txt
+# Covers all apps published by Asynk Labs
+
+google.com, pub-4487190737881023, DIRECT, f08c47fec0942fa0
